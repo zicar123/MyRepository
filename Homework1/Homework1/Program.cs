@@ -25,5 +25,10 @@ namespace Homework1
         {
             return new Random().Next(1, 100);
         }
+
+        public void Feature()
+        {
+            this.DoSomething();
+        }
     }
 }
