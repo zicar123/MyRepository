@@ -11,6 +11,7 @@ namespace Homework1
         {
             new Whatever().DoSomething();
             Console.WriteLine(new Whatever().PickANumber());
+            new Whatever().Feature();
         }
     }
 
